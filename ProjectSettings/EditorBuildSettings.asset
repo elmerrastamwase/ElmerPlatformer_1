@@ -6,9 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/elmerPlatformer1_mainMenu.unity
+    guid: 0849e50b943c6df4a8612abaada0e595
+  - enabled: 1
+    path: Assets/Scenes/elmerPlatformer1_tutorialScene.unity
+    guid: 2974d204293138c47a44785910ae9b69
+  - enabled: 1
     path: Assets/Scenes/elmerPlatformer1_scene0.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/elmerPlatformer1_scene1.unity
     guid: 04bb02c12334f3d4896f51198933a68b
+  - enabled: 1
+    path: Assets/Scenes/elmerPlatformer1_victory.unity
+    guid: 47c802674bd537a4f828a8de405ef928
   m_configObjects: {}
