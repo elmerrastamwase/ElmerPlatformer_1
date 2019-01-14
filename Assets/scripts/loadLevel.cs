@@ -26,7 +26,7 @@ public class loadLevel : MonoBehaviour
     {
         // resettar spelarens score när en level loadas (dör ellar går in i nästa bana) 
         coin.score = 0;
-        // loadar scen beroende på 'levelLoad'
+        // loadar scen beroende på 'levelToLoad'
         SceneManager.LoadScene(levelToLoad);
         // playern förlorar sin powerup
         powerup.playerState = 1;

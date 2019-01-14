@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/elmerPlatformer1_bonus.unity
+    guid: 7502ea6a60376a84b8116887d71ce1b4
+  - enabled: 1
     path: Assets/Scenes/elmerPlatformer1_mainMenu.unity
     guid: 0849e50b943c6df4a8612abaada0e595
   - enabled: 1
