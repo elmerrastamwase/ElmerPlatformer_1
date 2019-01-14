@@ -1401,6 +1401,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114921316491404144, guid: 6f48568cc2eb3fc4789e3beaa850a3a0,
+        type: 2}
+      propertyPath: minScore
+      value: 900
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f48568cc2eb3fc4789e3beaa850a3a0, type: 2}
   m_IsPrefabAsset: 0
@@ -2391,6 +2396,41 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_text
+      value: You need 900 points to win
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_textInfo.characterCount
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_textInfo.spaceCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_textInfo.wordCount
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_textInfo.lineCount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
+        type: 2}
+      propertyPath: m_textInfo.pageCount
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []

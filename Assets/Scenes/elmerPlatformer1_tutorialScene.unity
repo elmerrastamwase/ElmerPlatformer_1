@@ -776,7 +776,7 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_text
-      value: You will need to colect atleast 200 points to finish this level.
+      value: You will need to collect atleast 200 points to finish this level.
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
@@ -786,7 +786,7 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_textInfo.characterCount
-      value: 64
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
@@ -816,7 +816,7 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_isInputParsingRequired
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
@@ -1079,18 +1079,18 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_text
-      value: when you colect coins you gain score, seen att the top right corner of
+      value: when you colect coins you gain score, seen at the top right corner of
         your screen. when you have enough score you may finish the level.
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 93
+      value: 92
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_textInfo.characterCount
-      value: 136
+      value: 135
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
@@ -1120,7 +1120,7 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_isInputParsingRequired
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
@@ -1406,19 +1406,19 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_text
-      value: you will also come acros many dangers in these levels. when you get hit
-        you are set back to the begining of the level. upp ahead are some exapels,
+      value: you will also come across many dangers in these levels. when you get
+        hit you are set back to the begining of the level. upp ahead are some exapels,
         try to get past them.
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 30
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_textInfo.characterCount
-      value: 168
+      value: 169
       objectReference: {fileID: 0}
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
@@ -1448,7 +1448,7 @@ Prefab:
     - target: {fileID: 114998709545807158, guid: cf44f9b5f6c64aa458ccef49805520e2,
         type: 2}
       propertyPath: m_isInputParsingRequired
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf44f9b5f6c64aa458ccef49805520e2, type: 2}
